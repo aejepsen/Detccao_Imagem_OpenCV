@@ -1,1 +1,1 @@
-# Detccao_Imagem_OpenCV
+# Detccao_Imagem_OpenCV.
